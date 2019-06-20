@@ -1,0 +1,1 @@
+console.log('<?php echo base_url(); ?>');

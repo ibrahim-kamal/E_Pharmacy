@@ -1,0 +1,18 @@
+
+.form
+{
+    display: flex;
+    float: left;
+    margin: 0px;
+    align-items: center;
+}
+.form > div
+{
+	padding: 0px;
+	margin: 0px 10px 0px 0px;
+}
+.form > div:nth-of-type(1)
+{
+	padding: 0px;
+	margin: -10px 10px 0px 0px;
+}

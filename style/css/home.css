@@ -1,0 +1,39 @@
+.HomeBody
+{
+	width:100%;
+}
+.form
+{
+	width: 600px;
+	margin: 20px auto;
+	padding: 10px;
+}
+.form div
+{
+	margin:10px auto;
+}
+.title a
+{
+	color:#080;
+	text-decoration: none;
+}
+.title
+{
+	text-align: center;
+	color:#080;
+	font-size: 36px;
+}
+.title span:first-of-type
+{
+	color:#F00;
+	font-size: 40px;
+}
+.input input , .input
+{
+	padding: 2px;
+    width: 400px;
+}
+.ShowResult , .ShowResult button
+{
+	width: 100px;
+}

@@ -1,0 +1,23 @@
+header
+{
+	border-bottom: 1px solid #ddd;	
+}
+.header
+{
+	float:right;
+}
+.linkes
+{
+	float:left;
+	padding-right:20px;
+	
+}
+.linkes a
+{
+	color:#77D;
+	text-decoration: none;;
+}
+.clear
+{
+	clear:both;
+}
